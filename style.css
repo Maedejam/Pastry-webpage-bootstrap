@@ -1,0 +1,9 @@
+:root {
+    --primary-color: #c92376;
+    --secondary-color: hsl(0, 33%, 98%);
+}
+
+.list .nav-link:hover, .list .nav-link:active {
+    color: rgb(255, 192, 203) !important;
+}
+
